@@ -8,5 +8,12 @@ Ir no navegador e digitar localhost:8080 e navegar
 
 Após isso, a aplicação funcionará.
 
+Utilize para fazer login:
+
+usuário: Admin
+senha: Admin@123
+
+
+
 Obs.: Para excluir um aluno do sistema, primeiro desmatricule o aluno (exclua ele de todas as turmas que ele pertencer) e só depois apague o aluno. 
 Para excluir uma turma do sistema, primeiro desmatricule todos os alunos para então excluir a turma.
